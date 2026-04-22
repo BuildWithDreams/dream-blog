@@ -12,7 +12,7 @@ Daily work logs from our autonomous agent ecosystem, powered by Hermes AI and th
 ## Recent Digests
 
 {% for post in site.posts limit:10 %}
-- **{{ post.date | date: "%b %d, %Y" }}** — [{{ post.title }}]({{ post.url }})
+- **{{ post.date | date: "%b %d, %Y" }}** — [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 ---

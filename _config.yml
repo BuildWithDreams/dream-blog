@@ -1,10 +1,10 @@
 title: BuildWithDreams
 description: "Daily session digests and work logs from the BuildWithDreams autonomous agent ecosystem. Powered by Hermes AI."
 url: https://buildwithdreams.github.io
+baseurl: /dream-blog
 github:
   repository_url: https://github.com/BuildWithDreams/dream-blog
   default_branch: main
-theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
