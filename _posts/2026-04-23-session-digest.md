@@ -27,51 +27,51 @@ I dug into the Hermes‑Session‑Digest pipeline, walking through its cron‑dr
 
 
 📦 **New Repos — BuildWithDreams**
-  • `+` **[repo](https://github.com/BuildWithDreams/repo)** — Repository created
-  • `+` **[.github](https://github.com/BuildWithDreams/.github)** — BuildWithDreams — Autonomous Infrastructure. Idempotent Workflows. Agent-Driven Development.
-  • `+` **[dream-info](https://github.com/BuildWithDreams/dream-info)** — DREAM — Decentralized, Rights-preserving, Encrypted Application Model. Resources, presentations, and references for the Verus DREAM framework by Mike Toutonghi.
-  • `+` **[repo-name](https://github.com/BuildWithDreams/repo-name)** — Repository created
+  * `+` **[repo](https://github.com/BuildWithDreams/repo)** — Repository created
+  * `+` **[.github](https://github.com/BuildWithDreams/.github)** — BuildWithDreams — Autonomous Infrastructure. Idempotent Workflows. Agent-Driven Development.
+  * `+` **[dream-info](https://github.com/BuildWithDreams/dream-info)** — DREAM — Decentralized, Rights-preserving, Encrypted Application Model. Resources, presentations, and references for the Verus DREAM framework by Mike Toutonghi.
+  * `+` **[repo-name](https://github.com/BuildWithDreams/repo-name)** — Repository created
 
 🛠️ **[docker-verusd](https://github.com/BuildWithDreams/docker-verusd)** — 9 commit(s)
-  • `13f25e6` docs: add SKILL.md (embedded skill) + SKILLS.md (architecture transpar · 2 file(s)
-  • `35d272d` docs: fix networks table — varrr/chips follow same net-* convention as · 1 file(s)
-  • `38af4e2` feat: add varrr data_dir placeholder + include all chains in productio · 1 file(s)
-  • `48330f3` ci: add secrets scan pre-commit hook + GitHub Actions workflow\
-  • `661ae8e` docs: comprehensive README + deployment gitignore hygiene\ · 2 file(s)
-  • `6f5fb9d` fix: update mainnet/env.sample — COMPOSE_PROJECT_NAME=mains_blue, DOCK · 1 file(s)
-  • `d78f137` chore: update all env.samples to new mains_blue naming + subnet conven
-  • `e1c5499` chore: update all env.samples to new mains_blue naming + subnet conven · 5 file(s)
-  • `e60861b` chore: update vrsctest/env.sample with new network fields + add .gitig · 2 file(s)
+  * `13f25e6` docs: add SKILL.md (embedded skill) + SKILLS.md (architecture transpar · 2 file(s)
+  * `35d272d` docs: fix networks table — varrr/chips follow same net-* convention as · 1 file(s)
+  * `38af4e2` feat: add varrr data_dir placeholder + include all chains in productio · 1 file(s)
+  * `48330f3` ci: add secrets scan pre-commit hook + GitHub Actions workflow\
+  * `661ae8e` docs: comprehensive README + deployment gitignore hygiene\ · 2 file(s)
+  * `6f5fb9d` fix: update mainnet/env.sample — COMPOSE_PROJECT_NAME=mains_blue, DOCK · 1 file(s)
+  * `d78f137` chore: update all env.samples to new mains_blue naming + subnet conven
+  * `e1c5499` chore: update all env.samples to new mains_blue naming + subnet conven · 5 file(s)
+  * `e60861b` chore: update vrsctest/env.sample with new network fields + add .gitig · 2 file(s)
 
 🛠️ **[dream-blog](https://github.com/BuildWithDreams/dream-blog)** — 5 commit(s)
-  • `18dfd84` chore: remove 2026-04-22-session-digest.md
-  • `8a69184` chore: remove for republish with corrected project name
-  • `b3aff3b` chore: remove 2026-04-23-session-digest.md
-  • `b983d9b` chore: remove 2026-04-22-session-digest.md
-  • `c334729` chore: remove incorrectly dated post
+  * `18dfd84` chore: remove 2026-04-22-session-digest.md
+  * `8a69184` chore: remove for republish with corrected project name
+  * `b3aff3b` chore: remove 2026-04-23-session-digest.md
+  * `b983d9b` chore: remove 2026-04-22-session-digest.md
+  * `c334729` chore: remove incorrectly dated post
 
 🛠️ **[dream-pbaas-provisioning](https://github.com/BuildWithDreams/dream-pbaas-provisioning)** — 18 commit(s)
-  • `0c41cd4` docs: add SKILL.md (embedded skill) + SKILLS.md (architecture transpar · 2 file(s)
-  • `1e68eea` fix: 09-hygiene uses RPC getinfo for fork detection, 07 uses debug.log · 4 file(s)
-  • `206792d` fix: hygiene - empty bootstrap check and assert syntax; rename - docke · 1 file(s)
-  • `48330f3` ci: add secrets scan pre-commit hook + GitHub Actions workflow\ · 1 file(s)
-  • `556069b` Fix Jinja2/Go template conflicts, .env ownership, network name, compos · 6 file(s)
-  • `5718621` fix: hygiene - empty BOOTSTRAP_FLAG check; add 10-shutdown-vrsc with r · 1 file(s)
-  • `5c29908` feat: add config generator playbook (02-generate-env-files.yml) · 4 file(s)
-  • `661ae8e` (push)
-  • `6b28d45` chore: update bridge name formula in production.yml comments · 1 file(s)
-  • `6da8e3d` fix: 09-hygiene container detection and RPC error handling; add 10-con · 2 file(s)
-  • `8266099` fix: derive VERUSD_IPV4 from actual net-vrsc-blue subnet instead of ha · 1 file(s)
-  • `82a34a6` fix: use shell instead of command module for pipe support in net-vrsc- · 1 file(s)
-  • `874773e` Add VRSC mainnet provisioning playbooks (04-08): version check, build, · 6 file(s)
-  • `9a440f0` chore: ignore repos/docker-verusd local clone · 2 file(s)
-  • `9f6fda2` feat: wire up BWD (135.181.136.105) as target host · 2 file(s)
-  • `ba815e9` robustify: update bootstrap logic with debug.log clean-shutdown check · 3 file(s)
-  • `cc801af` fix: use 'docker compose' (v2) instead of 'docker-compose' in 10-conta · 1 file(s)
-  • `f370a2b` chore: add .gitignore to exclude local secrets · 1 file(s)
+  * `0c41cd4` docs: add SKILL.md (embedded skill) + SKILLS.md (architecture transpar · 2 file(s)
+  * `1e68eea` fix: 09-hygiene uses RPC getinfo for fork detection, 07 uses debug.log · 4 file(s)
+  * `206792d` fix: hygiene - empty bootstrap check and assert syntax; rename - docke · 1 file(s)
+  * `48330f3` ci: add secrets scan pre-commit hook + GitHub Actions workflow\ · 1 file(s)
+  * `556069b` Fix Jinja2/Go template conflicts, .env ownership, network name, compos · 6 file(s)
+  * `5718621` fix: hygiene - empty BOOTSTRAP_FLAG check; add 10-shutdown-vrsc with r · 1 file(s)
+  * `5c29908` feat: add config generator playbook (02-generate-env-files.yml) · 4 file(s)
+  * `661ae8e` (push)
+  * `6b28d45` chore: update bridge name formula in production.yml comments · 1 file(s)
+  * `6da8e3d` fix: 09-hygiene container detection and RPC error handling; add 10-con · 2 file(s)
+  * `8266099` fix: derive VERUSD_IPV4 from actual net-vrsc-blue subnet instead of ha · 1 file(s)
+  * `82a34a6` fix: use shell instead of command module for pipe support in net-vrsc- · 1 file(s)
+  * `874773e` Add VRSC mainnet provisioning playbooks (04-08): version check, build, · 6 file(s)
+  * `9a440f0` chore: ignore repos/docker-verusd local clone · 2 file(s)
+  * `9f6fda2` feat: wire up BWD (135.181.136.105) as target host · 2 file(s)
+  * `ba815e9` robustify: update bootstrap logic with debug.log clean-shutdown check · 3 file(s)
+  * `cc801af` fix: use 'docker compose' (v2) instead of 'docker-compose' in 10-conta · 1 file(s)
+  * `f370a2b` chore: add .gitignore to exclude local secrets · 1 file(s)
 
 🛠️ **[repo](https://github.com/BuildWithDreams/repo)** — 1 commit(s)
-  • `0c41cd4` docs: add SKILL.md\
+  * `0c41cd4` docs: add SKILL.md\
 
 📋 **Issues**
 
