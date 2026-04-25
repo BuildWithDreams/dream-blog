@@ -30,14 +30,14 @@ After a deep dive through the Komodo forum, Verus GitHub, Discord announcements 
 
 
 🛠️ **[docker-verusd](https://github.com/BuildWithDreams/docker-verusd)** — 3 commit(s)
-  • `19e8518` Add PBaaS sample.conf with full chain params and seednodes for varrr,  · 3 file(s)
-  • `94cc4df` Add PBaaS sample.conf for varrr, vdex, chips · 3 file(s)
-  • `dc53c34` Add sample PBaaS chain configs for vARRR, vDEX, CHIPS · 3 file(s)
+  - `19e8518` Add PBaaS sample.conf with full chain params and seednodes for varrr,  · 3 file(s)
+  - `94cc4df` Add PBaaS sample.conf for varrr, vdex, chips · 3 file(s)
+  - `dc53c34` Add sample PBaaS chain configs for vARRR, vDEX, CHIPS · 3 file(s)
 
 🛠️ **[dream-pbaas-provisioning](https://github.com/BuildWithDreams/dream-pbaas-provisioning)** — 29 commit(s)
-  • `028f71d` fix: peers always empty list default, -e overrides; clean YAML structu · 1 file(s)
-  • `080ad16` fix: use dict.get() for peer_lines results display · 1 file(s)
-  • `0e1f8f5` fix: 14-pbaas-peer-config — peers as -e vars only, fix loop syntax, no · 2 file(s)
+  * `028f71d` fix: peers always empty list default, -e overrides; clean YAML structu · 1 file(s)
+  * `080ad16` fix: use dict.get() for peer_lines results display · 1 file(s)
+  * `0e1f8f5` fix: 14-pbaas-peer-config — peers as -e vars only, fix loop syntax, no · 2 file(s)
   • `13e7be4` feat: add 11-setup-pbaas.yml — configure PBaaS chain with secure rando · 1 file(s)
   • `140672e` rewrite: clean playbook, control node only, no git sync on remote · 1 file(s)
   • `1597b62` fix: split set_fact to avoid cross-ref in same task · 1 file(s)
